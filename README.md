@@ -13,6 +13,7 @@ applied standard normal distribution
 ![image](https://user-images.githubusercontent.com/90147513/153177022-bcfdb638-4f90-47ad-9a12-30959c4cc1b8.png)
 
 
+Here using a plot i finded there is an imbalanced data in target column
 
-
+![forest4](https://user-images.githubusercontent.com/90147513/153177456-f429f5c2-3772-4ab2-9e39-4c0721966cec.PNG)
 
