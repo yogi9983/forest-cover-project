@@ -17,3 +17,6 @@ Here using a plot i finded there is an imbalanced data in target column
 
 ![forest4](https://user-images.githubusercontent.com/90147513/153177456-f429f5c2-3772-4ab2-9e39-4c0721966cec.PNG)
 
+here i did smote for  handling  imbalanced data
+
+![forest5](https://user-images.githubusercontent.com/90147513/153177940-77983949-5bb1-4b58-9a5c-2c508423e0b5.PNG)
