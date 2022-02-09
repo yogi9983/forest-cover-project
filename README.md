@@ -9,7 +9,8 @@ checking whether giving column are normally distributed  or not
 ![forest2](https://user-images.githubusercontent.com/90147513/153176240-7234d8c8-f948-482a-9749-d7d6d9210318.PNG)
 
 
-
+applied standard normal distribution
+![image](https://user-images.githubusercontent.com/90147513/153177022-bcfdb638-4f90-47ad-9a12-30959c4cc1b8.png)
 
 
 
